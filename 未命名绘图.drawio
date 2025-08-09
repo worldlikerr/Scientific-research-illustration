@@ -363,7 +363,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ATwaSGqZ-P2h5PU4KuX_-82" value="Smooth Max" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+        <mxCell id="ATwaSGqZ-P2h5PU4KuX_-82" value="Smooth Max" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="1056" y="350" width="107" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ATwaSGqZ-P2h5PU4KuX_-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="ATwaSGqZ-P2h5PU4KuX_-84" target="ATwaSGqZ-P2h5PU4KuX_-5" edge="1">
@@ -630,7 +630,7 @@
             <mxPoint x="1403" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ATwaSGqZ-P2h5PU4KuX_-145" value="Linear Weighted Fusion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;fontSize=14;gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="ATwaSGqZ-P2h5PU4KuX_-145" value="Linear Weighted Fusion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=14;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="1238" y="385" width="107" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ATwaSGqZ-P2h5PU4KuX_-146" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" target="ATwaSGqZ-P2h5PU4KuX_-145" edge="1">
