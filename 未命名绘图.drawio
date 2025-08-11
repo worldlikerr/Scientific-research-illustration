@@ -604,8 +604,8 @@
             <mxPoint x="1026" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ATwaSGqZ-P2h5PU4KuX_-139" value="y&lt;sub&gt;mml&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="953" y="398" width="50" height="30" as="geometry" />
+        <mxCell id="ATwaSGqZ-P2h5PU4KuX_-139" value="L&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="958" y="398" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ATwaSGqZ-P2h5PU4KuX_-140" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
